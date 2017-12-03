@@ -1,0 +1,39 @@
+{
+  "name": "angular-scroll-events",
+  "version": "0.0.1",
+  "description": "Angular directives for scroll events",
+  "homepage": "https://github.com/g1eb/angular-scroll-events#readme",
+  "author": "g1eb <mail@g1eb.com> (https://g1eb.com)",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g1eb/angular-scroll-events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/g1eb/angular-scroll-events/issues"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "angular": "^1.5.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.3"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "scroll",
+    "onscroll",
+    "scrollup",
+    "scrolldown",
+    "events",
+    "touchpad",
+    "mouse"
+  ]
+}
