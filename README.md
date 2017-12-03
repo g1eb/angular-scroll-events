@@ -20,8 +20,8 @@ yarn add angular-scroll-events
 
 ```javascript
 angular.module('myApp', [
-  'g1b.angular-scroll-events',
-  .....
+  'g1b.scroll-events',
+  ...
 ])
 ```
 
