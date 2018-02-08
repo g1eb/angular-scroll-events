@@ -5,7 +5,7 @@
   "homepage": "https://github.com/g1eb/angular-scroll-events#readme",
   "author": "g1eb <mail@g1eb.com> (https://g1eb.com)",
   "license": "MIT",
-  "main": "index.js",
+  "main": "dist/scroll-events.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g1eb/angular-scroll-events.git"
