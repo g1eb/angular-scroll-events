@@ -1,6 +1,6 @@
 {
   "name": "angular-scroll-events",
-  "version": "0.2.0",
+  "version": "0.0.3",
   "description": "Angular directives for scroll events",
   "homepage": "https://github.com/g1eb/angular-scroll-events#readme",
   "authors": [
@@ -18,15 +18,13 @@
     "angular",
     "angularjs",
     "directive",
-    "date",
-    "time",
-    "datetime",
-    "range",
-    "daterange",
-    "datepair",
-    "input",
-    "dateinput",
-    "timeinput"
+    "scroll",
+    "onscroll",
+    "scrollup",
+    "scrolldown",
+    "events",
+    "touchpad",
+    "mouse"
   ],
   "ignore": [
     "**/.*",
